@@ -1,4 +1,4 @@
-# Francesca Scafuto Website
+# Francesca Scafuto
 a website that I made for an artist.  cannot provide source code.  
 my name is in the footer.
 
